@@ -1,4 +1,4 @@
-# [GoCorona-site](https://chkkris.github.io/GoCorona-site/)
+# [GoCorona-site](https://chkkris.github.io/LandingPage-GoCorona/)
 
 * Landing page
 * Adaptive layout.
